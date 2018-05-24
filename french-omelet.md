@@ -1,6 +1,6 @@
 # French Omelet
 
-## Ingredients
+### Ingredients
 
 - **2** EGGS
 - **2** tbsp. water
@@ -9,7 +9,7 @@
 - **1 tsp.** butter
 - **1/3** cup filling, such as shredded cheese, finely chopped ham
 
-## Instructions
+### Instructions
 
 1. **BEAT** eggs, water, salt and pepper in small bowl until blended.
 
