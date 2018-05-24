@@ -18,3 +18,5 @@
 3. **GENTLY PUSH** cooked portions from edges toward the center with inverted turner so that uncooked eggs can reach the hot pan surface. **CONTINUE** cooking, tilting pan and gently moving cooked portions as needed.
 
 4. When top surface of eggs is thickened and no visible liquid egg remains, **PLACE** filling on one side of the omelet. **FOLD** omelet in half with turner. With a quick flip of the wrist, turn pan and **INVERT** or **SLIDE** omelet onto plate. **SERVE** immediately.
+
+5. And eat.
